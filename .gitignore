@@ -1,0 +1,4 @@
+.metals/
+.netrwhist
+.luarc.json
+plugin/
